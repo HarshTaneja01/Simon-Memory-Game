@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+.indiv{
+    border: 5px solid black;
+    border-radius: 25%;
+    height: 150px;
+    width :150px;
+    margin-left: 15px;
+    margin-top: 10px;
+    
+    
+}
+#Maindiv{
+    height:355px;
+    width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin : auto;
+}
